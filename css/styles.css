@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+
+
+body {
+
+    border: 2px solid lightgray;
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+
+
+}
+
+
+
+.card-img-top {
+
+    width: 50%;
+    margin-left: 70px;
+
+}
+
+
+
+
+.card {
+
+    border: none;
+
+}
+
+
+
+.btn {
+
+    font-family: 'Mulish', sans-serif;
+    border: 1px solid #0a2ff1;
+    color: #04146c;
+    bottom: rounded-0;
+
+}
+
+
+h1 {
+
+    font-family: 'Mulish', sans-serif;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 4rem;
+    color: #04146c;
+
+}
+
+
+
+h2 {
+
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.9rem;
+
+}
+
+
+.card-title {
+
+    color: #0a2ff1;
+
+}
+
+
+h6 {
+
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.2rem;
+    color: #04146c;
+
+}
+
+
+
+p {
+
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.2rem;
+    color: #04146c;  
+
+}
+
+
+
+
+
+
+
+
+@media (max-width: 576px) {
+
+
+    
+    body {
+
+        border: 2px solid lightgray;
+        margin-top: 50px;
+        margin-bottom: 100px;
+        
+        
+        
+
+    }
+
+
+
+
+    h1 {
+        
+        padding-right: 0px;
+
+    }
+
+
+
+    div.p-3 {
+
+        margin-left: 100px;
+
+    }
+}

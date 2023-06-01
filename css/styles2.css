@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap');
+
+
+img {
+
+    width: 30%;
+    margin-left: 730px;
+    margin-top: 54px;
+    margin-bottom: 70px;
+
+}
+
+
+
+
+h1 {
+
+    font-family: 'Mulish', sans-serif;
+    padding-bottom: -90px;
+    margin-top: -340px;
+    margin-left: 90px;
+    color: #04146c;
+    font-size: 2.3rem;
+
+}
+
+
+
+p {
+
+    font-family: 'Mulish', sans-serif;
+    margin-left: 90px;
+    margin-bottom: 60px;
+    color: #04146c;
+    font-size: 1.1rem;
+}
+
+
+
+b {
+
+   color: #0a2ff1;
+
+
+}
+
+
+
+.borde {
+
+    border: 2px solid lightgray;
+    margin-top: 70px;
+    margin-left: 80px;
+    margin-right: 90px;
+    padding-bottom: 90px;
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 576px) {
+
+
+    .borde {
+
+        border: 2px solid lightgray;
+        margin-left: 30px;
+        margin-right: 40px;
+        padding-bottom: 20px;
+        width: 500px;
+        height: 800px;
+    
+    }
+    
+
+
+    img {
+
+        
+        width: 80%;
+        margin-left: 49px;
+        margin-top: 374px;
+        margin-bottom: -600px;
+
+
+    }
+
+
+
+
+    h1 {
+
+       padding-top: 190px; 
+       margin-right: 60px;
+        
+
+    }
+
+
+    p {
+
+        margin-right: 50px;
+       
+
+    }
+
+
+}
